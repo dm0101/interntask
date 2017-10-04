@@ -1,0 +1,20 @@
+2. For Back-end: Create a website with Python(Django) and SQLite database.
+
+1.Use Django's tools to create a website and application.
+
+2.Create models to represent your application's data.
+
+3.Add server side user authorisation and sessions to control site behaviour and access.
+
+4.Use templates to create form which should contains text areas for name,email, address, date and comments. Use form validation.
+
+5.Perform form processing, file uploading, cookies and session handling.
+
+6.Add and retrieve form data from SQLite database.
+
+7.Write test code for your app.
+
+8.Deploy your application to production.
+
+
+You can take help from this tutorial https://tutorial.djangogirls.org/en/ and https://media.readthedocs.org/pdf/tango-with-django/latest/tango-with-django.pdf

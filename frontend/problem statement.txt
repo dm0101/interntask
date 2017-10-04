@@ -1,0 +1,40 @@
+1. Part 1:
+Create an angular application which consists of:
+
+1.Create login/register pages with client side authentication
+
+2.Send login/register requests to our server & handle the response
+
+3.Profiles with images
+
+4.Write/edit/read articles
+
+5.Comments on articles
+
+6.Ability to "favourite" articles
+
+7.Ability to follow other users & have their articles show up in your feed
+
+8.Display errors
+
+9.Store the user's auth info (JWT token) to ensure they stay logged in
+
+10.Ensure users can/cannot access pages if they're logged in/out
+
+
+2. Part 2:
+Create native Ionic application:
+
+1.All steps mentioned in part 1.
+
+2.Add native components to create a form consisting of basic information including Full name, email id, date of birth, social sharing.
+
+3.Add the information to SQLite Database.
+
+4.Retrieving and displaying the information from the database.
+
+
+You can follow this tutorial:
+For angular: https://thinkster.io/a-better-way-to-learn-angularjs
+
+For ionic: http://ionicframework.com/docs/v1/guide/
